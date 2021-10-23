@@ -1,4 +1,5 @@
-## *Bonjour :ghost: &nbsp Here's some information about me and my profile*
+## *Bonjour :ghost:
+### Here's some information about me and my profile*
 
 <!--
 **UralShag/UralShag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
