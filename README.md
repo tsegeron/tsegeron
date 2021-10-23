@@ -1,5 +1,6 @@
-<h2> **Bonjour** :ghost:</h2>
-<h3> *Here's my profile and some info about me*</h3>
+## **Bonjour** :ghost
+### *Here's my profile and some info about me*
+
 <p>
   > Сurrently studying programming at 21School(42), Kazan. </p>
 <p> 
