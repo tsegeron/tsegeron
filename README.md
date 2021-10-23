@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 </a>
 
 <a href="https://github.com/tsegeron/tsegeron">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsegeron&title_color=F5EACD&text_color=A79081&icon_color=915A6C&bg_color=373345&text_color=A79081&theme=radical&border_color=141845&border_radius=15" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsegeron&title_color=F5EACD&text_color=A79081&icon_color=915A6C&bg_color=373345&border_color=141845&border_radius=15" />
 </a>
 
 
