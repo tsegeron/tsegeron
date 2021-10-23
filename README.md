@@ -9,7 +9,7 @@
 
 
 ***
-[1.1]: https://i.imgur.com/DWJroXT.png (telegram)
+[1.1]: <i class="fab fa-telegram"></i>
 
 [1]: https://t.me/tsegeron
 
