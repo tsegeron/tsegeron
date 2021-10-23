@@ -3,8 +3,9 @@
 <br />
 
  * Сurrently studying programming at 21School(42), Kazan.
-
  * Keep learning stuff in C non-stop. :nerd_face:
+ * Nothing else came to my mind yet.
+
 
 ***
 
