@@ -5,6 +5,8 @@
 <p> 
   > Keep learning stuff in C non-stop. :nerd_face: </p>
 
+***
+
 <!--
 **UralShag/UralShag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
