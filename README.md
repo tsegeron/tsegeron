@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Ural's GitHub stats](https://github-readme-stats.vercel.app/api?username=UralShag&count_private=true&show_icons=true&theme=radical&border_color=141845&title_color=F5EACD&text_color=A79081&icon_color=915A6C&bg_color=373345&border_radius=15)
+![Ural's GitHub stats](https://github-readme-stats.vercel.app/api?username=UralShag&custom_title="My GitHub stats"&count_private=true&show_icons=true&theme=radical&border_color=141845&title_color=F5EACD&text_color=A79081&icon_color=915A6C&bg_color=373345&border_radius=15)
 
 
 
