@@ -8,7 +8,7 @@
 
 
 ***
-[https://i.imgur.com/DWJroXT.png] (https://t.me/tsegeron)
+[1.1] https://i.imgur.com/DWJroXT.png (https://t.me/tsegeron)
 
 <!--
 **UralShag/UralShag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
