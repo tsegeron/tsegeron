@@ -1,7 +1,7 @@
 ## **Bonjour** :ghost:
 ### *Here's my profile and some info about me*
 
-<p>  </p>
+<br />
 
   * Сurrently studying programming at 21School(42), Kazan.
 
