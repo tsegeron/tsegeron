@@ -8,6 +8,7 @@
 
 
 ***
+[https://i.imgur.com/DWJroXT.png] (https://t.me/tsegeron)
 
 <!--
 **UralShag/UralShag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -32,6 +33,15 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsegeron&langs_count=5&title_color=F5EACD&text_color=A79081&icon_color=915A6C&bg_color=373345&border_color=141845&border_radius=15" />
 </a>
 
+<!--
+<a href="https://github.com/MartinHeinz/python-project-blueprint">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/MartinHeinz/go-project-blueprint">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+-->
 
 ***
 
