@@ -1,7 +1,8 @@
 ## **Bonjour** :ghost:
 ### *Here's my profile and some info about me*
 
-I’m currently studying programming at 21(42)School, Kazan. Learning some stuff in C.
+> Сurrently studying programming at 21School(42), Kazan.
+> Keep learning stuff in C non-stop. :nerd_face:
 
 <!--
 **UralShag/UralShag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
