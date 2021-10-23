@@ -1,7 +1,11 @@
 ## **Bonjour** :ghost:
 ### *Here's my profile and some info about me*
-<p> > Сurrently studying programming at 21School(42), Kazan. </p>
-<p> > Keep learning stuff in C non-stop. :nerd_face: </p>
+<p>
+  > Сurrently studying programming at 21School(42), Kazan. 
+</p>
+<p> 
+  > Keep learning stuff in C non-stop. :nerd_face: 
+</p>
 
 <!--
 **UralShag/UralShag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
