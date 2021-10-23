@@ -4,14 +4,12 @@
 
  * Сurrently studying programming at 21School(42), Kazan.
  * Keep learning stuff in C non-stop. :nerd_face:
- * You can text me on [![Telegram][1.1]][1]
+ * You can text me on [Telegram][1]
  * Nothing else came to my mind yet.
 
 
 ***
-[1.1]: class="fab fa-telegram"
 
-[1]: https://t.me/tsegeron
 
 <!--
 **UralShag/UralShag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -48,5 +46,6 @@ Here are some ideas to get you started:
 
 ***
 
+[1]: https://t.me/tsegeron
 
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UralShag&show_icons=true&theme=radical" /> -->
