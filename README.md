@@ -47,6 +47,6 @@ Here are some ideas to get you started:
 ***
 
 [1]: https://t.me/tsegeron
-[2]: href="mailto:inv.uralsh@gmail.com"
+[2]: mailto:inv.uralsh@gmail.com
 
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UralShag&show_icons=true&theme=radical" /> -->
