@@ -1,9 +1,10 @@
 ## **Bonjour** :ghost:
 ### *Here's my profile and some info about me*
 <br />
-  * Сurrently studying programming at 21School(42), Kazan.
 
-  * Keep learning stuff in C non-stop. :nerd_face:
+ * Сurrently studying programming at 21School(42), Kazan.
+
+ * Keep learning stuff in C non-stop. :nerd_face:
 
 ***
 
