@@ -9,7 +9,7 @@
 
 
 ***
-[1.1]: f2c6
+[1.1]: class="fab fa-telegram"
 
 [1]: https://t.me/tsegeron
 
