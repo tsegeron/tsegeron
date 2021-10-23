@@ -17,8 +17,13 @@ Here are some ideas to get you started:
 
 [![Ural's GitHub stats](https://github-readme-stats.vercel.app/api?username=tsegeron&count_private=true&show_icons=true&theme=radical&border_color=141845&title_color=F5EACD&text_color=A79081&icon_color=915A6C&bg_color=373345&border_radius=15)](https://github.com/tsegeron)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tsegeron&layout=compact)](https://github.com/tsegeron)
+<a href="https://github.com/MartinHeinz/MartinHeinz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsegeron&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
 
+<a href="https://github.com/MartinHeinz/MartinHeinz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tsegeron&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Ural's GitHub Stats" />
+</a>
 
 ***
 
