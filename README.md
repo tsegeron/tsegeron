@@ -3,7 +3,7 @@
 <br />
 
  * Сurrently studying programming at 21School(42), Kazan.
- * Keep learning stuff in C non-stop. :nerd_face:
+ * Keep learning stuff on C non-stop. :nerd_face:
  * You can text me on [Telegram][1] or [Gmail][2].
  * Nothing else came to my mind yet.
 
