@@ -29,10 +29,14 @@ Here are some ideas to get you started:
 <a href="https://github.com/tsegeron/tsegeron">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=tsegeron&count_private=true&show_icons=true&theme=radical&border_color=141845&title_color=F5EACD&text_color=A79081&icon_color=915A6C&bg_color=373345&border_radius=15" />
 </a>
-
+<!--
 <a href="https://github.com/tsegeron/tsegeron">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsegeron&langs_count=5&title_color=F5EACD&text_color=A79081&icon_color=915A6C&bg_color=373345&border_color=141845&border_radius=15" />
 </a>
+-->
+
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tsegeron&layout=compact)
+
 
 <!--
 <a href="https://github.com/MartinHeinz/python-project-blueprint">
