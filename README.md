@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 </a>
 -->
 
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tsegeron&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tsegeron&layout=compact)
 
 
 <!--
