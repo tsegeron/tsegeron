@@ -2,10 +2,10 @@
 ### *Here's my profile and some info about me*
 <br />
 
- * Сurrently studying programming at 21School(42), Kazan.
+ * Сurrently studying programming at 21School(42), Kazan, Russia.
  * Keep learning stuff on C non-stop. :nerd_face:
- * You can text me on [Telegram][1] or [Gmail][2].
- * Nothing else came to my mind yet.
+ * You can text me on [Telegram][1] or [Gmail][2], and check my profile [here][3].
+ * ...
 
 
 ***
@@ -40,5 +40,7 @@ Here are some ideas to get you started:
 
 [1]: https://t.me/tsegeron
 [2]: mailto:inv.uralsh@gmail.com
+[3]: https://profile.intra.42.fr/users/gernesto
+
 
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UralShag&show_icons=true&theme=radical" /> -->
