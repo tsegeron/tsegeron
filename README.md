@@ -4,7 +4,7 @@
 
  * Сurrently studying programming at 21School(42), Kazan, Russia.
  * Keep learning stuff on C non-stop. :nerd_face:
- * You can text me on [Telegram][1] or [Gmail][2], and check my profile [here][3].
+ * You can text me on [Telegram][1] or [Gmail][2], and check my profile [Here][3].
  * ...
 
 
