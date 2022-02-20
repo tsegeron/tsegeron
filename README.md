@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
 <a href="https://github.com/tsegeron/tsegeron">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=tsegeron&count_private=true&show_icons=true&theme=radical&border_color=141845&title_color=F5EACD&text_color=A79081&icon_color=915A6C&bg_color=373345&border_radius=15" />
 </a>
@@ -34,8 +35,11 @@ Here are some ideas to get you started:
 <a href="https://github.com/tsegeron/tsegeron">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsegeron&layout=compact&langs_count=5&title_color=F5EACD&text_color=A79081&icon_color=915A6C&bg_color=373345&border_color=141845&border_radius=15" />
 </a>
-       
-       
+
+
+![gernesto's 42 stats](https://badge42.herokuapp.com/api/stats/gernesto)
+
+
 ***
 
 [1]: https://t.me/tsegeron
