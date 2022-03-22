@@ -3,7 +3,7 @@
 <br />
 
  * Сurrently studying programming at 21School(42), Kazan, Russia.
- * Keep learning stuff on C non-stop. :nerd_face:
+ * Done with C, I'm currently diving into C++. :nerd_face:
  * You can text me on [Telegram][1] or [Gmail][2], and check my profile [Here][3].
  * ...
 
