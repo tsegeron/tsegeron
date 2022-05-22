@@ -3,7 +3,7 @@
 <br />
 
  * Сurrently studying programming at 21School(42), Kazan, Russia.
- * Done with C, I'm currently diving into C++, Python DS. :nerd_face:
+ * Done with C, currently learning C++, Python Django. :nerd_face:
  * You can text me on [Telegram][1] or [Gmail][2], and check my profile [Here][3].
  * ...
 
