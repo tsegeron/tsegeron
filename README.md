@@ -32,9 +32,17 @@ Here are some ideas to get you started:
 </a>
 
 
-<a href="https://github.com/tsegeron/tsegeron">
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact) -->
+<!-- <a href="https://github.com/tsegeron/tsegeron">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsegeron&layout=compact&hide=Objective-C,CMake, Perl&title_color=F5EACD&text_color=A79081&icon_color=915A6C&bg_color=373345&border_color=141845&border_radius=15" />
+</a> -->
+
+<a href="https://github.com/tsegeron/tsegeron">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsegeron&layout=compact&title_color=F5EACD&text_color=A79081&icon_color=915A6C&bg_color=373345&border_color=141845&border_radius=15&hide=Objective-C,CMake,Perl" />
 </a>
+
+
+<!-- https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact -->
 <!-- &langs_count=6 -->
 
 <!-- ![gernesto's 42 stats](https://badge42.herokuapp.com/api/stats/gernesto) -->
