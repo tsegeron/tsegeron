@@ -4,7 +4,7 @@
 
  * Сurrently studying programming at School21(42), Kazan, Russia.
  * Currently learning Python, Data Science, ML.
- * You can text me on [Telegram][1] or [Gmail][2], and check my Intra [Here][3].
+ * You can text me on [Telegram][1] or [Gmail][2], and check my [Intra profile][3].
  * ...
 
 
