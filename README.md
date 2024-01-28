@@ -2,10 +2,10 @@
 ### *Here's my profile and some info about me*
 <br />
 
- * Сurrently studying programming at School21(42), Kazan, Russia.
- * Currently learning Python, Data Science, ML.
+ * Studying programming at [Ecole 42](https://42.fr/en/homepage/).
+ * Learning Python, Data Science, ML.
  * You can text me on [Telegram][1] or [Gmail][2], and check my [Intra profile][3].
- * ...
+
 
 
 ***
